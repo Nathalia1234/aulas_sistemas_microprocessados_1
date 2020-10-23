@@ -1,6 +1,6 @@
 
 
-# Aulas de Sistemas Microprocessados 1
+# Exercícios feitos nas aula de Sistemas Microprocessados 1
 
 > **Exercícios resolvidos com os softwares:**
 	
